@@ -24,3 +24,10 @@ while (i < St.length) {
   console.log(St[i]);
   i++;
 }
+
+var studentsMari = ["Singh", "Ahmed", "Evan", "Matt", "Lisa"]
+var indexy = 0;
+while (indexy < studentsMari.length) {
+  console.log(studentsMari[indexy])
+  indexy++;
+}
