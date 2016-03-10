@@ -16,3 +16,11 @@ while (index<studentsWhile.length){
 for (var i=0; i<studentsDavid.length; i++) {
   console.log("A very cool student named " + studentsDavid[i] + " is also in my class.")
 }
+
+
+var St=["Ahmed", "Allie", "David", "Ian", "mari", "matt"]
+var i=0
+while (i < St.length) {
+  console.log(St[i]);
+  i++;
+}
